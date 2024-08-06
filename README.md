@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganeshbodicherla
-- 👀 I’m interested in python 
-- 🌱 I’m completed B.Tech
-- 💞️ I’m looking to collaborate on it industry 
+- 👀 My skills are Java,Python,HTML,CSS,SQL Programming Languages.
+- 🌱 I’m completed B.Tech-Electronics and Communication Engineering.
+- 💞️ I’m looking to collaborate on it industry.
   
 
 <!---
