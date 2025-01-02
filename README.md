@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ganeshbodicherla
-- 👀 My skills are Java,Python,HTML,CSS,SQL Programming Languages.
-- 🌱 I’m completed B.Tech-Electronics and Communication Engineering.
-- 💞️ I’m looking to collaborate on it industry.
-  
+Fresher Software Developer with experience in Java Full Stack and Web Development. Passionate about building impactful solutions using technologies like Java, JDBC, Servlets, Hibernate, Spring, MySQL, and JavaScript. Currently learning frameworks like Spring and Spring Boot.
 
 <!---
 ganeshbodicherla/ganeshbodicherla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
